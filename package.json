@@ -1,0 +1,22 @@
+{
+  "name": "random-quote-generator",
+  "version": "1.0.0",
+  "description": "Random Quote Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "keywords": [],
+  "author": "AshKeys",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
