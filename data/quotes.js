@@ -1,5 +1,9 @@
 const Quotes = [
   {
+    quote: 'For the things we have to learn before we can do them, we learn by doing them.',
+    author: 'Aristotle'
+  },
+  {
     quote:
       'I have noticed even people who claim everything is predestined, and that we can do nothing to change it, look before they cross the road.',
     author: 'Stephen Hawking'
